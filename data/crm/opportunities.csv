@@ -1,0 +1,2 @@
+opportunity_id,account_id,contact_id,opportunity_type,edition,city,country,stage,value_estimate_usd,currency,close_date_target,probability,opportunity_owner,source,created_date,last_updated,next_action,next_action_date,lost_reason,notes,hubspot_deal_id
+YW-OPP-0001,YW-ACC-0001,YW-CON-0001,badge_listing,Singapore_2026,Singapore,SG,prospect,8000,USD,2026-08-01,30,Commercial,web_search,2026-05-01,2026-05-01,Research anchor event badge potential,2026-05-15,,Seed opportunity,
