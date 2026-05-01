@@ -1,0 +1,2 @@
+contact_id,account_id,first_name,last_name,email,linkedin_url,title,city,country,contact_type,gdpr_status,do_not_contact,source,source_url,source_confidence,contact_owner,created_date,last_updated,hubspot_contact_id
+YW-CON-0001,YW-ACC-0001,Unknown,Contact,,,Organiser contact,Singapore,SG,organiser,unknown,FALSE,web_search,https://token2049.com,inferred,Market Intelligence,2026-05-01,2026-05-01,
