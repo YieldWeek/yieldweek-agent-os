@@ -16,20 +16,22 @@ Do not use invented names, titles, or biographies.
 
 Use:
 
-- Olivier Galaud / founder identity
+- `team@yieldweek.org` as the central founder / team identity
 - YieldWeek official brand identity
-- functional addresses such as `partners@yieldweek.org`, `sponsors@yieldweek.org`, or `editorial@yieldweek.org`
+- functional addresses such as `hello@yieldweek.org`, `partners@yieldweek.org`, `sponsors@yieldweek.org`, `editorial@yieldweek.org`, or `ops@yieldweek.org`
 
 ## Functional addresses
 
-Functional addresses may represent workflows, not people.
+Functional addresses represent workflows, not people.
 
-Examples:
+Approved address map:
 
-- `sponsors@yieldweek.org` for sponsor conversations
-- `partners@yieldweek.org` for organisers and ecosystem partners
-- `editorial@yieldweek.org` for speakers, content, and media
-- `ops@yieldweek.org` for logistics
+- `team@yieldweek.org` for founder-led communication, final decisions, high-trust replies, and central inbox ownership
+- `hello@yieldweek.org` for general inbound, website inquiries, and unqualified requests
+- `partners@yieldweek.org` for event organisers, Type A badge partners, media partners, city partners, and ecosystem partners
+- `sponsors@yieldweek.org` for sponsor conversations, packages, and commercial follow-up
+- `editorial@yieldweek.org` for speakers, agenda, content, interviews, media, and newsletter coordination
+- `ops@yieldweek.org` for logistics, Luma, venues, suppliers, attendee operations, and run-of-show execution
 
 ## Public channels
 
