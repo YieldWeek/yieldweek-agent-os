@@ -1,0 +1,1 @@
+record_id,date,record_type,counterparty,deal_type,crm_link,invoice_number,amount,currency,payment_method,payment_status,reconciliation_status,fx_notes,owner,last_updated,notes
