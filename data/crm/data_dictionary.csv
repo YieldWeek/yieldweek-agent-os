@@ -1,0 +1,24 @@
+table,column,type,required,allowed_values_or_rule,owner_agent
+accounts,account_id,string,Y,YW-ACC-XXXX,Market Intelligence
+accounts,industry_category,enum,Y,"DeFi|RWA|TradFi|CeFi|Media|Service_Provider|Event_Organiser|Venue|Other",Market Intelligence
+accounts,account_type,enum,Y,"sponsor_prospect|organiser|media_partner|speaker_org|franchisee|vendor|government",Market Intelligence
+accounts,tier,enum,Y,"A|B|C",Market Intelligence
+accounts,relationship_status,enum,Y,"research|prospect|active|paused|closed",Commercial
+contacts,contact_id,string,Y,YW-CON-XXXX,Market Intelligence
+contacts,contact_type,enum,Y,"sponsor_buyer|organiser|speaker|media|franchisee_operator|vendor|government",Market Intelligence
+contacts,gdpr_status,enum,Y,"unknown|opted_in|opted_out",Legal/Compliance
+contacts,do_not_contact,boolean,Y,TRUE/FALSE,Legal/Compliance
+opportunities,opportunity_id,string,Y,YW-OPP-XXXX,Commercial
+opportunities,opportunity_type,enum,Y,"badge_listing|sponsorship|franchise|media_partnership",Commercial
+opportunities,stage,enum,Y,"prospect|qualified|proposal|negotiation|closed_won|closed_lost|on_hold",Commercial
+events,event_id,string,Y,YW-EVT-XXXX,Market Intelligence
+events,format,enum,Y,"conference|side_event|roundtable|workshop|networking|summit",Market Intelligence
+events,badge_status,enum,Y,"prospect|qualified|approved|approved_with_conditions|rejected|certified|listed",Badge Certification
+interactions,interaction_type,enum,Y,"email_sent|email_received|call|meeting|linkedin_message|note",All agents
+interactions,outcome,enum,Y,"positive|neutral|objection|negative|unsubscribe|no_response|legal_flag",All agents
+tasks,status,enum,Y,"open|in_progress|blocked|done|escalated|cancelled",Orchestrator
+invoices,payment_status,enum,Y,"draft|sent|overdue|paid|disputed|refunded|cancelled",Finance/Treasury
+risks,risk_type,enum,Y,"factual_claim|legal|brand|financial|operational|data_privacy|reputational|technical",Reality Checker
+risks,severity,enum,Y,"low|medium|high|critical",Reality Checker
+all,source_confidence,enum,Y,"confirmed|inferred|assumption",Relevant owner
+all,country,string,Y,ISO 3166-1 alpha-2,Relevant owner
