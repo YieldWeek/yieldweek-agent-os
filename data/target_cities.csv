@@ -1,0 +1,11 @@
+city,country,priority_phase,target_date_window,anchor_events,edition_status,owner,notes
+Singapore,Singapore,Phase 1,TBD,TBD,research,Market Intelligence,
+Hong Kong,Hong Kong,Phase 1,TBD,TBD,research,Market Intelligence,
+Dubai,UAE,Phase 1,TBD,TBD,research,Market Intelligence,
+London,UK,Phase 1,TBD,TBD,research,Market Intelligence,
+New York,USA,Phase 2,TBD,TBD,backlog,Market Intelligence,
+San Francisco,USA,Phase 2,TBD,TBD,backlog,Market Intelligence,
+Shanghai,China,Phase 2,TBD,TBD,backlog,Market Intelligence,
+Seoul,South Korea,Phase 2,TBD,TBD,backlog,Market Intelligence,
+Shenzhen,China,Phase 2,TBD,TBD,backlog,Market Intelligence,
+Tokyo,Japan,Phase 2,TBD,TBD,backlog,Market Intelligence,
